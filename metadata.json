@@ -1,0 +1,5 @@
+{
+  "name": "AI Logo Enhancer",
+  "description": "An application to enhance the quality of logos and images using AI. It features a modern, glassmorphism UI with smooth animations, supporting both light and dark themes.",
+  "requestFramePermissions": []
+}
